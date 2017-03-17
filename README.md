@@ -20,6 +20,6 @@ For python3:
 python3 setup.py build  
 
 Change 'build' for 'install' to, well for the lack of better words, install it.  
-If you want to record the installed files you can add after install "--record uninstall-<python version>.txt" and for a clean up of the example module you can just run **uninstall.sh**.  
+If you want to record the installed files you can add after install "--record uninstall-[python version].txt" and for a clean up of the example module you can just run **uninstall.sh**.  
 Curretly the uninstall-2.txt and uninstall-3.txt have the files that get installed when you install this modules system-wide.  
 Also you can make a virtualenv and when you're done you can remove it.  
